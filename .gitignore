@@ -1,0 +1,28 @@
+# KiCad 10 local history & IDE directories
+.history/
+.idea/
+.vscode/
+
+# KiCad temporary and auto-save files
+*.kicad_prl
+*.bak
+*-bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-save.kicad_pcb
+*-save.kicad_sch
+~*.kicad_pcb.lck
+~*.kicad_pro.lck
+~*.kicad_sch.lck
+*.round-tracks-config
+
+# Backup directories
+*-backups/
+*-production/
+*-gerber_to_order/
+
+# Reports and temporary files
+*.rpt
+*.net
+*.xml
+*.wbk

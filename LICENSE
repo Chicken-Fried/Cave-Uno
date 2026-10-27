@@ -1,0 +1,147 @@
+Copyright (c) 2026 Cave Rover (Europe)
+
+================================================================================
+LICENSING OVERVIEW FOR CAVE UNO (REV 1.0)
+================================================================================
+
+1. HARDWARE DESIGN (Schematics, PCB Layout, Footprints, Gerber/Fabrication Files)
+   Licensed under the CERN Open Hardware Licence Version 2 - Permissive (CERN-OHL-P-2.0).
+   See full license text below.
+
+2. DOCUMENTATION & VISUAL ARTWORK (READMEs, Pinout Diagrams, Silkscreen LiDAR Art)
+   Licensed under the Creative Commons Attribution-ShareAlike 4.0 International
+   License (CC BY-SA 4.0). To view a copy of this license, visit:
+   https://creativecommons.org/licenses/by-sa/4.0/
+
+3. FIRMWARE / CODE EXAMPLES
+   Licensed under the MIT License.
+
+================================================================================
+CERN Open Hardware Licence Version 2 - Permissive (CERN-OHL-P-2.0)
+================================================================================
+
+Preamble
+
+CERN has developed this license to promote collaboration among hardware
+designers and to provide a legal tool which supports the freedom to use,
+study, modify, share and distribute hardware designs and products based on
+those designs. Version 2 of the CERN Open Hardware Licence comes in three
+variants: CERN-OHL-P (permissive); and two reciprocal licences: CERN-OHL-W
+(weakly reciprocal) and CERN-OHL-S (strongly reciprocal).
+
+The CERN-OHL-P is copyright CERN 2020. Anyone is welcome to use it, in
+unmodified form only, for the licensing of their own Open Hardware Designs.
+
+1 Definitions
+
+1.1 'Licence' means this CERN-OHL-P.
+
+1.2 'Compatible Licence' means
+   a) any earlier version of the CERN Open Hardware licence, or
+   b) any version of the CERN-OHL-S, CERN-OHL-W or CERN-OHL-P, or
+   c) any licence which permits You to treat the Covered Source as if it
+      were licensed under this Licence provided that on Conveyance of any such
+      Covered Source, or any associated Product, You also Make Available the
+      source to the Covered Source cleanly under this Licence.
+
+1.3 'Source' means information such as design materials or digital code which
+    can be applied to Make or test a Product or to prepare a Product for Use,
+    Conveyance or assembly, regardless of its medium or how it is expressed.
+    It may include Notices.
+
+1.4 'Covered Source' means Source that is explicitly made available under this
+    Licence.
+
+1.5 'Product' means any device, component, work or physical object, whether in
+    finished or intermediate form, arising from the use, application or
+    processing of Covered Source.
+
+1.6 'Make' means to create or configure something, whether by manufacture,
+    assembly, compiling, loading or applying Covered Source or another Product
+    or otherwise.
+
+1.7 'Available Component' means any part, sub-assembly, library or code which:
+   a) is licensed to You by a third party under separate terms, or is available
+      as a standard commercial product; and
+   b) is not modified as part of the Product, other than by configuration or
+      parameterisation within the parameters specified by the manufacturer.
+
+1.8 'Notice' means copyright, attribution and trademark notices, archival
+    references, hyperlinks to the Covered Source, notices of licensing or
+    limitation of liability, and any other similar informational notices that
+    are included in or attached to the Covered Source by a Licensor.
+
+1.9 'Licensee' or 'You' means any person exercising rights under this Licence.
+
+1.10 'Licensor' means any natural or legal person who creates or modifies
+     Covered Source and Conveyes it under this Licence. A person may be a
+     Licensee and a Licensor at the same time.
+
+1.11 'Convey' means to communicate to the public or distribute Copies of
+     Covered Source, or to transfer physical possession or ownership of a
+     Product, by any means.
+
+2 Grant of Rights
+
+2.1 Subject to the terms and conditions of this Licence, each Licensor grants
+    You a worldwide, royalty-free, non-exclusive, perpetual licence to Make
+    Modifications to the Covered Source, to Use the Covered Source, to Convey
+    the Covered Source (with or without Modifications), and to Make, Use and
+    Convey Products.
+
+2.2 Either the unmodified Covered Source, or Modified Covered Source may be
+    combined with other material (including Available Components) to form a
+    larger design or Product.
+
+3 Conditions
+
+3.1 Conveyance of Covered Source
+    You may Convey Covered Source, in modified or unmodified form, provided
+    that You:
+   a) retain all Notices included in the Covered Source; and
+   b) where You have Modified the Covered Source, include a prominent Notice
+      stating that You have Modified the Covered Source, with the date and
+      details of the Modifications.
+
+3.2 Conveyance of Products
+    You may Convey Products provided that to the extent that the recipient of
+    the Product does not receive a copy of the Covered Source with the Product,
+    You provide the recipient with all Notices included in the Covered Source,
+    or a visible link or reference to where those Notices may be easily
+    accessed.
+
+4 Disclaimer of Warranty and Limitation of Liability
+
+4.1 Disclaimer of Warranty
+    The Covered Source and any Products are provided 'as is' and any express or
+    implied warranties, including, but not limited to, implied warranties of
+    merchantability, of satisfactory quality, non-infringement of third party
+    rights, and fitness for a particular purpose or use are disclaimed in
+    respect of any Covered Source or Product to the maximum extent permitted by
+    law. The Licensor makes no representation that any Covered Source or
+    Product does not or will not infringe any patent, copyright, trade secret
+    or other proprietary right. The entire risk as to the use, quality, and
+    performance of a Covered Source or Product shall be with You and not the
+    Licensor. This disclaimer of warranty is an essential part of this Licence
+    and a condition for the grant of any rights Check under this Licence.
+
+4.2 Limitation of Liability
+    Except as overviewed by compulsory law, in no event shall any Licensor be
+    liable for any direct, indirect, special, incidental, consequential,
+    exemplary or punitive damages of any character including, without
+    limitation, procurement of substitute goods or services, loss of use, data
+    or profits, or business interruption, however caused and on any theory of
+    liability, whether in contract, strict liability, or tort (including
+    negligence or otherwise) arising in any way out of the use of Covered
+    Source or Products, even if advised of the possibility of such damage.
+
+5 General
+
+5.1 Save for the rights explicitly granted to You under this Licence, no right,
+    title or interest in or to any trademark, trade name, logo or service mark
+    of a Licensor is granted under this Licence.
+
+5.2 If any provision of this Licence is held to be invalid or unenforceable,
+    that provision shall be reformed only to the extent necessary to make it
+    enforceable, and the remaining provisions of this Licence shall remain in
+    full force and effect.
