@@ -16,9 +16,13 @@
 ~*.kicad_sch.lck
 *.round-tracks-config
 
+# Fabrication Toolkit & Production files
+production/
+*-production/
+fabrication-toolkit-options.json
+
 # Backup directories
 *-backups/
-*-production/
 *-gerber_to_order/
 
 # Reports and temporary files
